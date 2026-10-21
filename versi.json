@@ -1,8 +1,8 @@
 {
-  "versi": "0.1.1",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.1/update-0.1.1.zip",
-  "sha256": "d3049ef552b29b958cdb642e4d0a2fcfe1fab20b22152f7d8684ae3cc5dbcf4d",
-  "catatan": "Pemberitahuan update otomatis muncul sendiri di web, lengkap dengan catatan perubahan. Sekali klik: unduh, pasang, restart. Pembeli tidak perlu link atau menaruh ZIP di folder.",
+  "versi": "0.1.2",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.2/update-0.1.2.zip",
+  "sha256": "5f5eb12d471bcc91547e8802be65dcf35cab7d668209a1689dc43dce87c0614a",
+  "catatan": "Pemberitahuan update muncul otomatis di web + catatan perubahan. Sekali klik: unduh, pasang, restart. Pembeli tidak perlu link atau menaruh ZIP di folder.",
   "wajib": false,
   "tanggal": "2026-10-21"
 }
