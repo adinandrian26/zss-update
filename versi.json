@@ -1,9 +1,9 @@
 {
   "versi": "0.1.5",
   "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.5/update-0.1.5.zip",
-  "sha256": "5fa7704c1adb0819ecd7727c126012fb64fba4e659a68f980edae7783b4955fc",
+  "sha256": "fc39c2724417127b10290295258fccf09f6d242b4092c73f837c4031dbee9b91",
   "catatan": "Pustaka karakter jadi 12 preset stickman (6 purba + 6 modern), karakter tokoh utama + pemeran dikunci otomatis saat naskah diimpor, dan UI pustaka kini khusus stickman.",
   "wajib": false,
   "tanggal": "2026-10-22",
-  "signature": "VqaOurdZaK5U3DB85ZQ8ICLL0qsk4cqqI4DtvwuhCj73ipH6lmlU-wkmMaBfAOxh8nWbhFW0kklm_xraa7-6Cg"
+  "signature": "0QPNLdJ-pFCZ4PfmhIu8oAE2fp2BNCX3FepVkuYx_bd2NzUS3D_McqVXkP5v2WeNifMKdKRirSIL3P0qE3-UDQ"
 }
