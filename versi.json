@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.6",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.6/update-0.1.6.zip",
-  "sha256": "ae0896e14aaab76f6dcefb4d13eb46308c4af1a26410ec0ba988857f590b8c91",
-  "catatan": "Penyegaran paket: README + panduan pembeli diperbarui, berkas update lama kini dibersihkan otomatis setiap rilis. Tanpa perubahan alur fitur.",
+  "versi": "0.1.7",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.7/update-0.1.7.zip",
+  "sha256": "b0220d820e324a07160086a82b7eda80f17ea6adb94092eddab52a1cda836ff1",
+  "catatan": "Auto-install Chromium Playwright jika belum terpasang",
   "wajib": false,
   "tanggal": "2026-10-23",
-  "signature": "bAHtogQymjf9DxCCT_tHI5HnSgfLiy6yikiccEnUjtftFFL1UkGRmRU4perjWIwVaaMbmSkZxBtUB347n-X6Bw"
+  "signature": "CshwEhCqpj6zw-YrdlSt9ix3EK4slmSUOABhUvzNHzLzBVpuI0FVCyc6gZ5Mx2d4ByKe1sfrdSe4IXGB1GzBCg"
 }
