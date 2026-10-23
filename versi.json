@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.7",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.7/update-0.1.7.zip",
-  "sha256": "b0220d820e324a07160086a82b7eda80f17ea6adb94092eddab52a1cda836ff1",
-  "catatan": "Auto-install Chromium Playwright jika belum terpasang",
+  "versi": "0.1.8",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.8/update-0.1.8.zip",
+  "sha256": "622c95d644a4d65f70942a81402189519434a831c6b8ae598a02f9edfe902c7d",
+  "catatan": "AI Image Inspector: periksa kesesuaian gambar vs naskah + auto-regenerate jika glitch/mismatch",
   "wajib": false,
   "tanggal": "2026-10-23",
-  "signature": "CshwEhCqpj6zw-YrdlSt9ix3EK4slmSUOABhUvzNHzLzBVpuI0FVCyc6gZ5Mx2d4ByKe1sfrdSe4IXGB1GzBCg"
+  "signature": "-zjdjpGv_aNmhdp6rgqH4PnCPbF98AdjKPurAD_HDCdI6Ep9SAYsYPFoPj-n0B94ECmx9iweRZ90hkpxsTJ4AA"
 }
