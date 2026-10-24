@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.10",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.10/update-0.1.10.zip",
-  "sha256": "cdc8ba83e044fbfe998d076e3d36f33eb952551f473bb2f75dad76fff4af2c29",
-  "catatan": "Perbaikan watchdog Gemini tidak merespon, verifikasi prompt terkirim & startup server otomatis",
+  "versi": "0.1.11",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.11/update-0.1.11.zip",
+  "sha256": "00ab0ed10fb3a16d3843ae37ae7fa33d7c852a2420987f8cbcff9c3cc2faf415",
+  "catatan": "Perbaikan indikator sesi Gemini & panduan hubungkan akun Chrome",
   "wajib": false,
   "tanggal": "2026-10-24",
-  "signature": "M_L3k4YrRYYNr3Igak7qppIA3i64xiv-GQPRa4LdRAam-yxVVqUEdVwbhAo1G6I5ugdrtwCKPhx6cXp8iqg9CQ"
+  "signature": "-63nB8t2CPIrH6XnnkZwP70JHtsqD9Z6_pZ70tRX9bGdSBvCkPA3nnbfklZEUx6jfMSQHCZ5R4T4-6jWV8TMAg"
 }
