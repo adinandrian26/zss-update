@@ -1,9 +1,9 @@
 {
   "versi": "0.1.10",
   "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.10/update-0.1.10.zip",
-  "sha256": "5e09dc74355e5900711310d4e948bc758b3a47dbd233de791ee34f489be09030",
-  "catatan": "Perbaikan watchdog Gemini tidak merespon & verifikasi prompt terkirim agar stabil generate gambar",
+  "sha256": "cdc8ba83e044fbfe998d076e3d36f33eb952551f473bb2f75dad76fff4af2c29",
+  "catatan": "Perbaikan watchdog Gemini tidak merespon, verifikasi prompt terkirim & startup server otomatis",
   "wajib": false,
   "tanggal": "2026-10-24",
-  "signature": "OvYreaXbaimNnxsn_tQ3TWL1VvffrCT3C3huUgamzNJS_EP6JRhr5uMzswhRM6KvP1nsLNTx_xzAji16nVCcAg"
+  "signature": "M_L3k4YrRYYNr3Igak7qppIA3i64xiv-GQPRa4LdRAam-yxVVqUEdVwbhAo1G6I5ugdrtwCKPhx6cXp8iqg9CQ"
 }
