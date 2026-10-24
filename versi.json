@@ -1,9 +1,9 @@
 {
   "versi": "0.1.10",
   "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.10/update-0.1.10.zip",
-  "sha256": "81d707bd896e8d82f600ee6d17607a07258fb78f6fcd778ceebbdfc7eac7a4a4",
-  "catatan": "Perbaikan gagal generate gambar: salin sesi login Chrome sekarang salinan PENUH (jangan cukup cookie saja), menolak jujur bila Chrome masih berjalan, dan profil salinan di nama folder apa pun ditemukan saat job membuka Chrome. Tidak perlu login di jendela kedua.",
+  "sha256": "5e09dc74355e5900711310d4e948bc758b3a47dbd233de791ee34f489be09030",
+  "catatan": "Perbaikan watchdog Gemini tidak merespon & verifikasi prompt terkirim agar stabil generate gambar",
   "wajib": false,
   "tanggal": "2026-10-24",
-  "signature": "V_t81zKZ5-Snf4tlLdgCCFxJrOhrIqHeR4VrtCZP8WBtl0DdKd7Lx33kvSjWPVoSzmvOqGJ0zXg6QLgvrU6zDg"
+  "signature": "OvYreaXbaimNnxsn_tQ3TWL1VvffrCT3C3huUgamzNJS_EP6JRhr5uMzswhRM6KvP1nsLNTx_xzAji16nVCcAg"
 }
