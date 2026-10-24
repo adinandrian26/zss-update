@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.9",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.9/update-0.1.9.zip",
-  "sha256": "8269e38216b5a4d51b4e92f88fa0473fe5b32ffff9692b30ce4cbf0fcfd9ef35",
-  "catatan": "Deteksi & hubungkan akun Google Chrome otomatis 1-klik untuk Gemini Pro & buka Chrome bersih tanpa blokir login Google",
+  "versi": "0.1.10",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.10/update-0.1.10.zip",
+  "sha256": "81d707bd896e8d82f600ee6d17607a07258fb78f6fcd778ceebbdfc7eac7a4a4",
+  "catatan": "Perbaikan gagal generate gambar: salin sesi login Chrome sekarang salinan PENUH (jangan cukup cookie saja), menolak jujur bila Chrome masih berjalan, dan profil salinan di nama folder apa pun ditemukan saat job membuka Chrome. Tidak perlu login di jendela kedua.",
   "wajib": false,
   "tanggal": "2026-10-24",
-  "signature": "522kreOkkS2dPsynCO3eajyOydkgyDqIn6YNUS9WE4xEXlaBZYMPQ_aKZhBm-VBWWM9W6-wDOMQW0UhhX-ygBw"
+  "signature": "V_t81zKZ5-Snf4tlLdgCCFxJrOhrIqHeR4VrtCZP8WBtl0DdKd7Lx33kvSjWPVoSzmvOqGJ0zXg6QLgvrU6zDg"
 }
