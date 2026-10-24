@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.8",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.8/update-0.1.8.zip",
-  "sha256": "622c95d644a4d65f70942a81402189519434a831c6b8ae598a02f9edfe902c7d",
-  "catatan": "AI Image Inspector: periksa kesesuaian gambar vs naskah + auto-regenerate jika glitch/mismatch",
+  "versi": "0.1.9",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.9/update-0.1.9.zip",
+  "sha256": "8269e38216b5a4d51b4e92f88fa0473fe5b32ffff9692b30ce4cbf0fcfd9ef35",
+  "catatan": "Deteksi & hubungkan akun Google Chrome otomatis 1-klik untuk Gemini Pro & buka Chrome bersih tanpa blokir login Google",
   "wajib": false,
-  "tanggal": "2026-10-23",
-  "signature": "-zjdjpGv_aNmhdp6rgqH4PnCPbF98AdjKPurAD_HDCdI6Ep9SAYsYPFoPj-n0B94ECmx9iweRZ90hkpxsTJ4AA"
+  "tanggal": "2026-10-24",
+  "signature": "522kreOkkS2dPsynCO3eajyOydkgyDqIn6YNUS9WE4xEXlaBZYMPQ_aKZhBm-VBWWM9W6-wDOMQW0UhhX-ygBw"
 }
