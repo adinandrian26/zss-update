@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.12",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.12/update-0.1.12.zip",
-  "sha256": "4e7c5e1bb0c553e0db4c5fd535fb0e9f2ef6ec6050f1add7e88be6cb99f207e9",
-  "catatan": "FLOW kini OTOMATIS: pilih mesin FLOW lalu tekan Lanjutkan - Chrome membuka flow.google.com dan membuat gambar sendiri (gambar Flow = 0 kredit di paket Pro). Mesin GEMINI tetap otomatis. Tampilan baru gelap premium (font modern) + perbaikan: ffmpeg selalu ditemukan, deteksi tokoh akurat, riwayat job rapi. Setelah update: pilih Mesin Gambar di Studio > Produksi.",
+  "versi": "0.1.13",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.13/update-0.1.13.zip",
+  "sha256": "d47cf410c39cee3601d5f68e166e0bd41909ecc88919ca0f02c7b9f0612635d3",
+  "catatan": "Pilihan akun Chrome di Pengaturan kini bisa DIKUNCI: pilih email ber-Gemini Pro lalu klik 'Simpan & Kunci' - pilihan tersimpan permanen (tidak berubah lagi saat halaman dimuat ulang), dan tombol Hubungkan mengunci otomatis. Badge menunjukkan akun terkunci + status sesi.",
   "wajib": false,
   "tanggal": "2026-10-25",
-  "signature": "KIVAfNv7Xk9P7gBxV_pnj3AeOOSJDJmaPfvPTkwCMi4uQ0TMkBFounBUntSH59rPDHETgHjeVmb_cgpyAMY-AA"
+  "signature": "M0xn4BzF2RgpGjueSJ-X5TTMtyUOZEI39eA-gza9j19O-QG8MgcyWuifk49zQlDvQZAaV8SkXeRId0t9j6KKAA"
 }
