@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.11",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.11/update-0.1.11.zip",
-  "sha256": "00ab0ed10fb3a16d3843ae37ae7fa33d7c852a2420987f8cbcff9c3cc2faf415",
-  "catatan": "Perbaikan indikator sesi Gemini & panduan hubungkan akun Chrome",
+  "versi": "0.1.12",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.12/update-0.1.12.zip",
+  "sha256": "4e7c5e1bb0c553e0db4c5fd535fb0e9f2ef6ec6050f1add7e88be6cb99f207e9",
+  "catatan": "FLOW kini OTOMATIS: pilih mesin FLOW lalu tekan Lanjutkan - Chrome membuka flow.google.com dan membuat gambar sendiri (gambar Flow = 0 kredit di paket Pro). Mesin GEMINI tetap otomatis. Tampilan baru gelap premium (font modern) + perbaikan: ffmpeg selalu ditemukan, deteksi tokoh akurat, riwayat job rapi. Setelah update: pilih Mesin Gambar di Studio > Produksi.",
   "wajib": false,
-  "tanggal": "2026-10-24",
-  "signature": "-63nB8t2CPIrH6XnnkZwP70JHtsqD9Z6_pZ70tRX9bGdSBvCkPA3nnbfklZEUx6jfMSQHCZ5R4T4-6jWV8TMAg"
+  "tanggal": "2026-10-25",
+  "signature": "KIVAfNv7Xk9P7gBxV_pnj3AeOOSJDJmaPfvPTkwCMi4uQ0TMkBFounBUntSH59rPDHETgHjeVmb_cgpyAMY-AA"
 }
