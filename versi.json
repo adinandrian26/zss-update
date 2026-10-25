@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.14",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.14/update-0.1.14.zip",
-  "sha256": "1091dabfdde3d36ac7426ad280a41ddeb3f583482775da55f443966f05dd2efc",
-  "catatan": "Perbaikan pembeli: setelah mengunci pilihan email Chrome, saat menekan generate app OTOMATIS menyalin sesi login akun itu dari Chrome asli ke jendela otomatisasi - tidak perlu klik Hubungkan lagi. Syarat satu kali saja: tutup semua jendela Chrome asli saat pertama generate (kalau lupa, app memberi tahu dan cukup diulang). Hubungkan manual tetap tersedia.",
+  "versi": "0.1.15",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.15/update-0.1.15.zip",
+  "sha256": "3790db5b54302476c57a068e55c831825b675994b75b71fafc8c5215c0a522ff",
+  "catatan": "Penguatan perbaikan pembeli: sesi login akun terkunci kini juga otomatis disalin ULANG bila folder jendela otomatisasi terhapus atau di-reset - jendela Chrome yang belum login tidak akan terbuka. Syarat tetap: akun dikunci di Pengaturan + Chrome asli tertutup saat penyalinan pertama.",
   "wajib": false,
   "tanggal": "2026-10-25",
-  "signature": "CKpzWxnc6FNGJ004XWEFjiedodfjI9vFFCnggUeOcvXZBxyDH9IOjrDGDeq4XXqg88o-oYk9gJAlVRUEDJQkBw"
+  "signature": "LIQLWiFdxeyySpGrLzdWl7zXdj-YXCesQ2V_r3_LcVRmCHTuAEKewSlSdtDHu-valCGuMKTyHxlBNbDLiqLvBQ"
 }
