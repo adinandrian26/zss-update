@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.15",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.15/update-0.1.15.zip",
-  "sha256": "3790db5b54302476c57a068e55c831825b675994b75b71fafc8c5215c0a522ff",
-  "catatan": "Penguatan perbaikan pembeli: sesi login akun terkunci kini juga otomatis disalin ULANG bila folder jendela otomatisasi terhapus atau di-reset - jendela Chrome yang belum login tidak akan terbuka. Syarat tetap: akun dikunci di Pengaturan + Chrome asli tertutup saat penyalinan pertama.",
+  "versi": "0.1.16",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.16/update-0.1.16.zip",
+  "sha256": "272721553b131fc940220738a606dee7504cdb18c109f8a4a7a0ba9d96c9d426",
+  "catatan": "PERBAIKAN PENTING untuk pembeli: penyebab 'Gemini minta login' adalah konfigurasi bawaan masih memakai browser cadangan (Chromium) ber-profil kosong. Kini begitu akun Chrome DIKUNCI di Pengaturan, generate otomatis memakai Chrome asli + sesi login Anda (disalin otomatis). Pembeli cukup: update - kunci email - tutup semua Chrome - generate. Tanpa mengubah .env.",
   "wajib": false,
   "tanggal": "2026-10-25",
-  "signature": "LIQLWiFdxeyySpGrLzdWl7zXdj-YXCesQ2V_r3_LcVRmCHTuAEKewSlSdtDHu-valCGuMKTyHxlBNbDLiqLvBQ"
+  "signature": "nb60xThtlZDVipts21wievCspYuaspjTp__4bek6IXsNcWJXJ85FcbGRRQMHFLLcvHZJIxTVo9n7rlXGBHMeCQ"
 }
