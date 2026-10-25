@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.16",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.16/update-0.1.16.zip",
-  "sha256": "272721553b131fc940220738a606dee7504cdb18c109f8a4a7a0ba9d96c9d426",
-  "catatan": "PERBAIKAN PENTING untuk pembeli: penyebab 'Gemini minta login' adalah konfigurasi bawaan masih memakai browser cadangan (Chromium) ber-profil kosong. Kini begitu akun Chrome DIKUNCI di Pengaturan, generate otomatis memakai Chrome asli + sesi login Anda (disalin otomatis). Pembeli cukup: update - kunci email - tutup semua Chrome - generate. Tanpa mengubah .env.",
+  "versi": "0.1.17",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.17/update-0.1.17.zip",
+  "sha256": "9db3a21e899bb4878c7a97863dd2e7f417fa53f590634f1d944a32ce60173969",
+  "catatan": "Integrasi 1-klik CapCut Desktop dan transisi visual",
   "wajib": false,
   "tanggal": "2026-10-25",
-  "signature": "nb60xThtlZDVipts21wievCspYuaspjTp__4bek6IXsNcWJXJ85FcbGRRQMHFLLcvHZJIxTVo9n7rlXGBHMeCQ"
+  "signature": "o76TdSbPazxWD1r4yutLoJemGxPVp6elC1DtvwPMfFwwL66lV-SmVi9qmAf7jD4ASNPdRp9AT5eM2Tl1PM_fDQ"
 }
