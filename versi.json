@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.13",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.13/update-0.1.13.zip",
-  "sha256": "d47cf410c39cee3601d5f68e166e0bd41909ecc88919ca0f02c7b9f0612635d3",
-  "catatan": "Pilihan akun Chrome di Pengaturan kini bisa DIKUNCI: pilih email ber-Gemini Pro lalu klik 'Simpan & Kunci' - pilihan tersimpan permanen (tidak berubah lagi saat halaman dimuat ulang), dan tombol Hubungkan mengunci otomatis. Badge menunjukkan akun terkunci + status sesi.",
+  "versi": "0.1.14",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.14/update-0.1.14.zip",
+  "sha256": "1091dabfdde3d36ac7426ad280a41ddeb3f583482775da55f443966f05dd2efc",
+  "catatan": "Perbaikan pembeli: setelah mengunci pilihan email Chrome, saat menekan generate app OTOMATIS menyalin sesi login akun itu dari Chrome asli ke jendela otomatisasi - tidak perlu klik Hubungkan lagi. Syarat satu kali saja: tutup semua jendela Chrome asli saat pertama generate (kalau lupa, app memberi tahu dan cukup diulang). Hubungkan manual tetap tersedia.",
   "wajib": false,
   "tanggal": "2026-10-25",
-  "signature": "M0xn4BzF2RgpGjueSJ-X5TTMtyUOZEI39eA-gza9j19O-QG8MgcyWuifk49zQlDvQZAaV8SkXeRId0t9j6KKAA"
+  "signature": "CKpzWxnc6FNGJ004XWEFjiedodfjI9vFFCnggUeOcvXZBxyDH9IOjrDGDeq4XXqg88o-oYk9gJAlVRUEDJQkBw"
 }
