@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.17",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.17/update-0.1.17.zip",
-  "sha256": "9db3a21e899bb4878c7a97863dd2e7f417fa53f590634f1d944a32ce60173969",
-  "catatan": "Integrasi 1-klik CapCut Desktop dan transisi visual",
+  "versi": "0.1.18",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.18/update-0.1.18.zip",
+  "sha256": "fea2569cf5254bcd748d7619b8a9958e8e756b1ecee6334b304acb53609bb27e",
+  "catatan": "Fitur generate ulang per gambar & perbaikan kamera on-location",
   "wajib": false,
-  "tanggal": "2026-10-25",
-  "signature": "o76TdSbPazxWD1r4yutLoJemGxPVp6elC1DtvwPMfFwwL66lV-SmVi9qmAf7jD4ASNPdRp9AT5eM2Tl1PM_fDQ"
+  "tanggal": "2026-10-26",
+  "signature": "8NEPYRZOJqFE4k5P61qnXP5dwiYv19rIVEszUFEYpR5Mi19VBoRD1j1vAVL9TOOuoddslkSohNiZgL3heCE4DA"
 }
