@@ -1,9 +1,9 @@
 {
-  "versi": "0.1.18",
-  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.18/update-0.1.18.zip",
-  "sha256": "fea2569cf5254bcd748d7619b8a9958e8e756b1ecee6334b304acb53609bb27e",
-  "catatan": "Fitur generate ulang per gambar & perbaikan kamera on-location",
+  "versi": "0.1.19",
+  "url": "https://github.com/adinandrian26/zss-update/releases/download/v0.1.19/update-0.1.19.zip",
+  "sha256": "35ca8c3263429ba3d6db3b754d019bead88aacfa7329d50285ace48ba0396971",
+  "catatan": "Narasi per beat tersambung penuh (UI, rute, flow pack), mesin gambar Flow otomatis per-beat, dan aturan baru gambar explainer: 1 beat = 1 gambar, mode lama ditolak. Perbaikan regenerasi gambar tunggal mengikuti aturan baru.",
   "wajib": false,
-  "tanggal": "2026-10-26",
-  "signature": "8NEPYRZOJqFE4k5P61qnXP5dwiYv19rIVEszUFEYpR5Mi19VBoRD1j1vAVL9TOOuoddslkSohNiZgL3heCE4DA"
+  "tanggal": "2026-10-29",
+  "signature": "djNjFrlEFwN30OIfj_k0FfbkSgBeMrg5UfrTk65ADyEfV-cUjWTejYVE2OgYps_IxlujQ2FU-XPLYE1gNS-GAw"
 }
